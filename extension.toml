@@ -1,0 +1,7 @@
+id = "purple-rain"
+name = "Purple-Rain"
+version = "0.0.1"
+schema_version = 1
+authors = ["Paul Delgado"]
+description = "Purple Rain"
+repository = "https://github.com/bryandelgado99/Purple-Rain"
